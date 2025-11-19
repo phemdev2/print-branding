@@ -15,7 +15,7 @@ export default function Header({ onCartOpen }: { onCartOpen: () => void }) {
 
         {/* LOGO */}
         <Link to="/" className="text-2xl font-bold select-none">
-          PrintZ<span className="text-blue-400">i</span>ons
+          PrintZ<span className="text-blue-400">i</span>on
         </Link>
 
         {/* DESKTOP NAV */}
